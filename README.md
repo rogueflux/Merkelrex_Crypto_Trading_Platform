@@ -1,0 +1,1 @@
+This project is a simulated cryptocurrency exchange developed as the central project in the Object-Oriented Programming (OOP) Specialization course, particularly using the C++ programming language.The platform is designed to help learners understand and apply core OOP concepts by building a realistic, interactive application
